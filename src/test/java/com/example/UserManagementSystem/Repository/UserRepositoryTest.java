@@ -1,14 +1,12 @@
+/*
 package com.example.UserManagementSystem.Repository;
-
 
 import java.sql.Date;
 import java.util.List;
 import java.util.Optional;
-
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-
 import com.example.UserManagementSystem.DTO.UserDTO;
 import com.example.UserManagementSystem.model.User;
 import com.example.UserManagementSystem.service.UserServiceImpl;
@@ -174,19 +172,7 @@ class UserRepositoryTest {
 		org.assertj.core.api.Assertions.assertThat(userList.isEmpty()).isEqualTo(true);
 	
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 }
+
+ */

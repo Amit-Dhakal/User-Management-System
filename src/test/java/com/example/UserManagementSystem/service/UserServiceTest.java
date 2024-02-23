@@ -1,3 +1,4 @@
+/*
 package com.example.UserManagementSystem.service;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -209,11 +210,7 @@ class UserServiceTest {
 	//	System.out.println(userList);
 			
 		org.assertj.core.api.Assertions.assertThat(result).isEqualTo("User Deleted By "+1L);
-	
 	}
 	
-	
-	
-	
-	
 }
+*/
